@@ -77,7 +77,7 @@ Donut chart representing sales contribution across product categories like Lapto
 - File  Description 
 
 - `SalesInsight_PowerBi.pbix` Full Power BI dashboard 
-- `ProjectOverview.png`  Project summary image (Purpose, Stakeholders, Success Criteria) 
+- [Project summary image (Purpose, Stakeholders, Success Criteria)](ProjectOverview.png) 
 
 
 ---
